@@ -8,4 +8,4 @@ delivery service company based on city level. The algorithm decides the most opt
 such the task is performed in least cost. The algorithm depends on various parameters to decide the route
 such as cost and weight of paths, number of packages to be picked up and delivered.
 
-*Project inspired from Eloquent Javascript's Chapter 7: A Robot, a book written by Marijn Haverbeke.
+*Project inspired from Eloquent Javascript's Chapter 7: A Robot, a book written by Marijn Haverbeke.*
